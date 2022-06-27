@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Nitik Rimjial</h1>
+<h1 align="center">Hi 👋, I'm Nitik Rimjial
+Sophomore Computer Science Engineering student
+Skilled in C++, Data Structures, Algorithms, and Competitive Programming.
+Explored the fields of Machine learning and Artificial intelligence.
+AR/VR enthusiast 
+Hobbyist Game developer
+Constantly trying to improve me.</h1>
 <h3 align="center">A front-End Guy</h3>
 
 <h3 align="left">Connect with me:</h3>
